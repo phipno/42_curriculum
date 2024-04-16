@@ -1,0 +1,15 @@
+# srcs/.env
+
+
+backend/transcendence/transcendence/__pycache__/
+backend/transcendence/dbconnect/__pycache__/
+backend/transcendence/dbconnect/migrations/__pycache__/
+frontend/app/package-lock.json
+frontend/app/node-modules/
+*.pyc
+
+temp/
+*.DS_Store
+backend/files/backend/.DS_Store
+
+media/profilepic/

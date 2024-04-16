@@ -1,0 +1,16 @@
+EA ./textures/nice.png
+NO ./textures/nice.png
+SO ./textures/nice.png
+WE ./textures/nice.png
+
+C 0, 187, 212
+F 229, 56, 53
+
+1111111111
+1000001001
+1000001001
+1001001001
+1000100001
+100N000001
+1000000111
+1111111111
