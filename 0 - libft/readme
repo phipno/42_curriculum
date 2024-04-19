@@ -1,8 +1,5 @@
-# Libft
-My own Standard C Library implementation.
+📚 Libft: My Custom Standard C Library Implementation 📚
 
-### Why libft?
-This project needs us to re-create some standard C library functions including some additional ones so we can use them later on in bigger projects.
-To the case of why: *Reinventing the wheel is bad. We get a deeper understanding of whats going on behind the scene, we get to understand basic algorithms and data structures.
-
-My code is not the cleanest and best documented, but it passed all the 42 tests successfully.
+🔍 Why Libft?
+- _Reinventing the wheel is sometimes bad_. We gain a deeper understanding of what's happening behind the scenes in standard library functions if we first redevlope them.
+- Through this project, we delve into basic algorithms and data structures, laying a strong foundation for future endeavors.
