@@ -21,8 +21,6 @@ ft_set.add("Paris!")
 #are changeable and do not allow duplicates since python 3.7 ordered
 ft_dict["Hello"] = "42Paris!"
 
-#your code here
-
 print(ft_list)
 print(ft_tuple)
 print(ft_set)
