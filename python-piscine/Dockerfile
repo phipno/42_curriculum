@@ -13,6 +13,12 @@ FROM python:3.10.14-bookworm
 
 RUN apt-get update
 
+RUN pip install --upgrade pip
+
+RUN pip install flake8
+
+RUN echo "alias norminette=flake8" >> ~/.bashrc
+
 WORKDIR /app
 
 EXPOSE 8000

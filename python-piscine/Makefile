@@ -16,7 +16,6 @@ CONTAINER_NAME := python-3.10
 
 #.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~ RULES ~._.~"~.__.~"~._.~"~._.~"~._.~"~._.~"~._.~#
 
-all: build run
 
 build:
 	docker build . -t $(IMAGE_NAME)
@@ -26,13 +25,10 @@ run:
 
 stop:
 	docker stop $(CONTAINER_NAME) || true
-
-clean: stop
 	docker rm $(CONTAINER_NAME) || true
 
-fclean: clean
+clean: stop
 	docker image rm $(IMAGE_NAME)
-	docker volume rm $(VOLUME_NAME)
 
 prune:
 	docker container prune -f
