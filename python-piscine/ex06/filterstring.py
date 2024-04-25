@@ -20,7 +20,7 @@ def main():
         else:
             print(
                 "Functionality: Provide two strings as arguments"
-                "<python filterstring.py < 'Hello the World' 4 > "
+                "<python filterstring.py 'Hello the World' 4 > "
             )
     except AssertionError as msg:
         print(msg)
