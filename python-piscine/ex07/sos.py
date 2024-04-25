@@ -41,8 +41,8 @@ def morse_converter(str_to_translate: str) -> str:
                     "0": "----- "
                     }
     str_to_translate = str_to_translate.upper()
-    try: 
-        translated = "";  
+    try:
+        translated = ""
         for character in str_to_translate:
             if character not in NESTED_MORSE:
                 raise AssertionError("AssertionError: bad argument")
@@ -51,8 +51,6 @@ def morse_converter(str_to_translate: str) -> str:
         return translated
     except AssertionError as msg:
         print(msg)
-
-    
 
 
 def main():
@@ -69,7 +67,7 @@ def main():
                     "<python sos.py 'sos' > "
             )
     except AssertionError as msg:
-        print(msg);
+        print(msg)
 
 
 if __name__ == "__main__":
