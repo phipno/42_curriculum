@@ -1,3 +1,14 @@
+# --------------------------8<----------------------------------------------- #
+#                                                                        .|   #
+#  NULL_not_found.py                         /     (__)          |/           #
+#                                                  (oo)------/'   ,__,    ,   #
+#  By: phipno <phipno@gmail.com>                |  (__)     ||    (oo)_____/  #
+#                                                     ||---/||    (__)    ||  #
+#  Created: 2024/04/25 13:43 by phipno       |/                 ,    ||--w||  #
+#                                          ,,       !              |'         #
+#                                               ,           ,|             |/ #
+# ------[ mooooooo ]--------------------------------------------------------- #
+
 def NULL_not_found(object: any) -> int:
   if type(object) is type(None):
     print("Nothing: " + str(object) + " " + str(type(None)))
@@ -12,4 +23,5 @@ def NULL_not_found(object: any) -> int:
   else:
     print("Type not Found")
     return 1;
-  
+
+# ~"~._.~"~._.~"~._.~"~._.~"~._.~"~. E O F .~"~._.~"~._.~"~._.~"~._.~"~._.~"~ #

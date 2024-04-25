@@ -1,3 +1,14 @@
+# --------------------------8<----------------------------------------------- #
+#                                                                        .|   #
+#  tester.py                                 /     (__)          |/           #
+#                                                  (oo)------/'   ,__,    ,   #
+#  By: phipno <phipno@gmail.com>                |  (__)     ||    (oo)_____/  #
+#                                                     ||---/||    (__)    ||  #
+#  Created: 2024/04/25 13:43 by phipno       |/                 ,    ||--w||  #
+#                                          ,,       !              |'         #
+#                                               ,           ,|             |/ #
+# ------[ mooooooo ]--------------------------------------------------------- #
+
 from find_ft_type import all_thing_is_obj
 
 ft_list = ["Hello", "tata!"]
@@ -11,3 +22,5 @@ all_thing_is_obj(ft_set)
 all_thing_is_obj(ft_dict)
 all_thing_is_obj("Brian")
 print(all_thing_is_obj(10))
+
+# ~"~._.~"~._.~"~._.~"~._.~"~._.~"~. E O F .~"~._.~"~._.~"~._.~"~._.~"~._.~"~ #
