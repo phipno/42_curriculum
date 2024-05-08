@@ -11,3 +11,5 @@
 - I spent a lot of time improving my fdf and still it wasnt that great.
 - There are way better ones out there mine is so lala
 - Still creating visual things with code was really new to me and i really enjoyed the process
+
+  <img src="readme/doggo.gif">
