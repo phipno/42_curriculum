@@ -12,4 +12,4 @@
 - There are way better ones out there mine is so lala
 - Still creating visual things with code was really new to me and i really enjoyed the process
 
-  <img src="readme/doggo.gif">
+  <img src="readme/fdf_doggo.gif">
