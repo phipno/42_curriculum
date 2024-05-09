@@ -11,6 +11,6 @@
 - Sorting numbers is nice but only going for least stack operations doesnt make sence in my head. Since at that point i thought run time would be the most important thing for a succesful sorting algorithm, which turned out to be wrong.
 
 ### 🛠️ Optimization
---- Was done in a visualizer programm, which was developed by a other student from 42
---- I tried to build my own but sadly failed because of laziness :)
+- Was done in a visualizer programm, which was developed by a other student from 42
+- I tried to build my own but sadly failed because of laziness :)
 <img src="readme/push_swap.gif">
