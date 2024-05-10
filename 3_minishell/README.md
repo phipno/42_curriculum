@@ -12,7 +12,7 @@
 - 
 
 ### ⚙️ How it works:
-<img src="readme/functioning.drawio.png">
+<img src="readme/flowchart.drawio.png">
 
 
 Needs Readline to work
