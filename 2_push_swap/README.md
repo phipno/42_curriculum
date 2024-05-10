@@ -6,9 +6,9 @@
 - The sorting algorithm wanted us to improve on stack operations and not on time optimatzion
 - I used insertion sort with an grouping of number in a same range. My stacks were linked lists.
 
-### 🥬 Is optimizing an stolen algorithm fun? ...
-- ... maybe but not for me. I only made my algorithm so good that i would pass. That means 86/125
-- Sorting numbers is nice but only going for least stack operations doesnt make sence in my head. Since at that point i thought run time would be the most important thing for a succesful sorting algorithm, which turned out to be wrong.
+### 🥬 Is optimizing an copied algorithm fun? ...
+- ... maybe but not for me. I only made my algorithm so good that i would pass. That means 86 points out of 125
+- Sorting numbers is nice but only going for least stack operations didnt make sense in my head. At that time i thought, that run time would be the most important thing for a succesful sorting algorithm, which turned out to be wrong.
 
 ### 🛠️ Optimization
 - Was done in a visualizer programm, which was developed by a other student from 42
