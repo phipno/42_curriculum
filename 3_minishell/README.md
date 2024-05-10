@@ -8,11 +8,11 @@
 - You learn UNIX shell commands and get a deeper knowledge of how the shell/cmd of your PC works in detail
 - Its a project without a end, a endless hole. Some of us called it Minihell :>
 
-### 🥸 The Adventure:
+### 🦖 The Adventure:
 - 
 
 ### ⚙️ How it works:
--
+<img src="readme/functioning.drawio.png>
 
 
 Needs Readline to work
