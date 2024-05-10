@@ -1,5 +1,7 @@
 # 🐚 Minishell: Recreating a simple shell 🐚
 
+<img src="readme/minishell.png">
+
 ### 🔍 Why Minishell:
 - Its the first team project
 - The Shell is based on bash and should recreate its behaviour
@@ -8,6 +10,9 @@
 
 ### 🥸 The Adventure:
 - 
+
+### ⚙️ How it works:
+-
 
 
 Needs Readline to work
