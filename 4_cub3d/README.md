@@ -10,6 +10,7 @@
 <div float="left">
   <img src="readme/cub3d.drawio.svg" width="45%"> <img src="readme/cloudy.png" width="50%">
 </div>
+
 - From Wikipedia 📖:
 
 ```
