@@ -20,8 +20,8 @@ The purpose of the grid based levels was twofold — ray-wall collisions can be 
   <img src="readme/cub3d_fail.gif" width="59%"> <img src="readme/trippy.png" width="30%">
 </div>
 
-- The grid was parsed from a text file, ending with .cub
-- Texture were hard, needed to be scaled and traversed to fit into each colomn where a wall was
+- The grid was parsed from a text file, ending with .cub. It needed a complicated parser for checking if the map was valid.
+- Texture were also hard. They needed to be scaled and traversed to fit into each colomn where a wall was. But this gave me a better understanding of how pictures even work.
 
 - A collection of our weird selfmade texture 
 <img src="readme/textures.png"/>
