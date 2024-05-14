@@ -1,4 +1,7 @@
-<img src="readme/cub3d.drawio.svg">
+<div>
+  <img src="readme/cub3d.drawio.svg">
+  <img src="readme/cloudy.png">
+</div>
 Wolfenstein 3D
 
 The video game Wolfenstein 3D was built from a square based grid of uniform height walls meeting solid-colored floors and ceilings. In order to draw the world, a single ray was traced for every column of screen pixels and a vertical slice of wall texture was selected and scaled according to where in the world the ray hits a wall and how far it travels before doing so.[8]
