@@ -1,6 +1,5 @@
 <div float="left">
-  <img src="readme/cub3d.drawio.svg" width="40%">
-  <img src="readme/cloudy.png" width="60%">
+  <img src="readme/cub3d.drawio.svg" width="40%"> <img src="readme/cloudy.png" width="60%">
 </div>
 Wolfenstein 3D
 
