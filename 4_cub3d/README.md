@@ -1,5 +1,4 @@
 # 🎮 Cub3D: A Wolfenstein 3D copy 🎮
-<img src="readme/trippy.png">
 
 ### 🔍 Why Cub3D:
 - It is the second graphic project
