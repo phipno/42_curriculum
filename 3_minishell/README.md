@@ -19,9 +19,8 @@
 <img src="readme/flowchart.drawio.png">
 
 
-- Needs Readline to work
-- Ubuntu Install 
-```
+- Needs Readline to work 
+```On Ubuntu
 sudo apt-get install libreadline8
 sudo apt-get install libreadline-dev
 ```
