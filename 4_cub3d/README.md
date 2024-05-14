@@ -1,4 +1,4 @@
-<div align="center">
+<div float="left">
   <img src="readme/cub3d.drawio.svg">
   <img src="readme/cloudy.png" width="66%">
 </div>
