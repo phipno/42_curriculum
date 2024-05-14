@@ -17,7 +17,7 @@
 The purpose of the grid based levels was twofold — ray-wall collisions can be found more quickly since the potential hits become more predictable and memory overhead is reduced. However, encoding wide-open areas takes extra space.</i>
 - Since programming often involves bugs, i got this and made some other cool things to look at
 </div>
-  <img src="readme/cub3d_fail.gif"> <img src="readme/trippy.png" width="30%">
+  <img src="readme/cub3d_fail.gif" width="59%"> <img src="readme/trippy.png" width="30%">
 <div>
 
 - The grid was parsed from a text file, ending with .cub
