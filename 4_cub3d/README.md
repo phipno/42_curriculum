@@ -1,15 +1,16 @@
 # 🎮 Cub3D: A Wolfenstein 3D copy 🎮
 
 ### 🔍 Why Cub3D:
-- It is the second graphic project
-- Build a own raycaster, its not a raytracer
+- It is the second graphic project.
+- We build our own raycaster, not a raytracer. Raytracing often follows physical properties of light.
 - Again a group project. My partner <a href="https://github.com/jweeeezy" target="_blank">Jakob Willert</a>
 
 ### 🕹️ How it works:
-- We have a game map, called <i>.cub</i>. Our parser only accepts correct formatted <i>.cub</i> file
+- We have a game map, called <i>.cub</i>. Our parser only accepts correct formatted <i>.cub</i> files.
 <div float="left">
   <img src="readme/cubfile.png" width="40%"> <img src="readme/cloudy.png" width="50%">
 </div>
+<br>
 <br>
 
 - From that map we get a player position and the current viewing direction
@@ -25,6 +26,7 @@
 <div float="left">
   <img src="readme/cub3d_fail.gif" width="54%"> <img src="readme/trippy.png" width="45%">
 </div>
+<br>
 <br>
 
 - Texture were hard to add. They needed to be scaled and traversed to fit into each colomn.
