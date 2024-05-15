@@ -8,7 +8,7 @@
 ### 🕹️ How it works:
 - We have a game map, called <i>.cub</i>. Our parser only accepts correct formatted <i>.cub</i> file
 <div float="left">
-  <img src="readme/cubfile.png" width="45%"> <img src="readme/cloudy.png" width="54%">
+  <img src="readme/cubfile.png" width="49%"> <img src="readme/cloudy.png" width="50%">
 </div>
 <br>
 
@@ -16,14 +16,14 @@
 - We can now calculate for every column of screen pixel the distance to the wall from our current player position
 - With this we scale the height of the wall accordingly to its travel distance
 <div float="left">
-  <img src="readme/cub3d.drawio.svg" width="40%"> <img src="readme/explain.png" width="59%">
+  <img src="readme/cub3d.drawio.svg" width="42%"> <img src="readme/explain.png" width="57%">
 </div>
 <br>
 <br>
 
 - Since programming something like this it involves bugs
 <div float="left">
-  <img src="readme/cub3d_fail.gif" width="55%"> <img src="readme/trippy.png" width="44%">
+  <img src="readme/cub3d_fail.gif" width="54%"> <img src="readme/trippy.png" width="45%">
 </div>
 <br>
 
