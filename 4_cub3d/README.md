@@ -17,14 +17,14 @@
 - We can now calculate for every column of screen pixel the distance to the wall from our current player position
 - With this we scale the height of the wall accordingly to its travel distance
 <div float="left">
-  <img src="readme/cub3d.drawio.svg" width="38%"> <img src="readme/explain.png" width="53%">
+  <img src="readme/cub3d.drawio.svg" width="38%"> <img src="readme/explain.png" width="52%">
 </div>
 <br>
 <br>
 
 - Since programming something like this it involves bugs
 <div float="left">
-  <img src="readme/cub3d_fail.gif" width="50%"> <img src="readme/trippy.png" width="41%">
+  <img src="readme/cub3d_fail.gif" width="49%"> <img src="readme/trippy.png" width="41%">
 </div>
 <br>
 <br>
