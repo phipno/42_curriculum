@@ -11,6 +11,7 @@
   <img src="readme/cubfile.png" width="45%"> <img src="readme/cloudy.png" width="54%">
 </div>
 <br>
+
 - From that map we get a player position and the current viewing direction
 - We can now calculate for every column of screen pixel the distance to the wall from our current player position
 - With this we scale the height of the wall accordingly to its travel distance
@@ -19,11 +20,13 @@
 </div>
 <br>
 <br>
+
 - Since programming something like this it involves bugs
 <div float="left">
   <img src="readme/cub3d_fail.gif" width="55%"> <img src="readme/trippy.png" width="44%">
 </div>
 <br>
+
 - Texture were hard to add. They needed to be scaled and traversed to fit into each colomn.
 - This gave me a better understanding of how pictures files work.
 - A collection of our weird selfmade texture 
