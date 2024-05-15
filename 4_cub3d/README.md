@@ -8,7 +8,7 @@
 ### 🕹️ How it works:
 - We have a game map, called <i>.cub</i>. Our parser only accepts correct formatted <i>.cub</i> file
 <div float="left">
-  <img src="readme/cubfile.png" width="49%"> <img src="readme/cloudy.png" width="50%">
+  <img src="readme/cubfile.png" width="40%"> <img src="readme/cloudy.png" width="50%">
 </div>
 <br>
 
