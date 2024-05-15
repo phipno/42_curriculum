@@ -8,19 +8,19 @@
 ### 🕹️ How it works:
 - We have a game map, called <i>.cub</i>. Our parser only accepts correct formatted <i>.cub</i> file
 <div float="left">
-  <img src="readme/cubfile.png" width="45%"> <img src="readme/cloudy.png" width="50%">
+  <img src="readme/cubfile.png" width="45%"> <img src="readme/cloudy.png" width="52%">
 </div>
 
 - From that map we get a player position and the current viewing direction
 - We can now calculate for every column of screen pixel the distance to the wall from our current player position
 - With this we scale the height of the wall accordingly to its travel distance
 <div float="left">
-  <img src="readme/cub3d.drawio.svg" width="45%"> <img src="readme/explain.png" width="50%">
+  <img src="readme/cub3d.drawio.svg" width="43%"> <img src="readme/explain.png" width="52%">
 </div>
 
 - Since programming something like this it involves bugs
 <div float="left">
-  <img src="readme/cub3d_fail.gif" width="59%"> <img src="readme/trippy.png" width="30%">
+  <img src="readme/cub3d_fail.gif" width="49%"> <img src="readme/trippy.png" width="49%">
 </div>
 
 
