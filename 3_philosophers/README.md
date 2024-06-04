@@ -1,12 +1,14 @@
 # 🗿 philosophers: learning the ways of philosophers [threads] 🗿
 
-<img src="readme/philo_animate.gif">
+<div>
+  <img src="readme/philo_animate.gif">
 
 ### 🔍 Why philosophers:
 - You learn about threads
 - Creating a logical programm which runs with custom amount of thread
 - Get to know how hard thread debugging can be
 - Thread safety is the <i>A und O</i>>, how we would say in german
+</div>
 
 ### 📜 The Rules:
   Setup:
@@ -39,6 +41,6 @@
         - [number_of_times_each_philosopher_must_eat] <i>optional<i>
 
 ### 🧘 What it does:
-<img src="readme/forever.png">
-<img src="readme/rip8.png">
+<img src="readme/forever.png" width="50%">
+<img src="readme/rip8.png" width="50%">
 
