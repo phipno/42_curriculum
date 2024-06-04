@@ -41,6 +41,6 @@
         - [number_of_times_each_philosopher_must_eat] <i>optional<i>
 
 ### 🧘 What it does:
-<img src="readme/forever.png" width="50%">
-<img src="readme/rip8.png" width="50%">
+<img src="readme/forever.png" width="49%">
+<img src="readme/rip8.png" width="49%">
 
