@@ -9,27 +9,27 @@
 - Thread safety is the <i>A und O</i>>, how we would say in german
 
 ### 📜 The Rules:
-  Setup:
+- Setup:
       Philosophers sit around a round table.
       There is a bowl of spaghetti in the middle of the table.
       There are as many forks as there are philosophers.
-  Activities:
+- Activities:
       Philosophers can eat, think, or sleep.
       They can only do one of these activities at a time.
-  Eating:
+- Eating:
       To eat, a philosopher needs two forks: the one on their right and the one on their left.
       After eating, they put the forks back and go to sleep.
-  Sleeping and Thinking:
+- Sleeping and Thinking:
       After sleeping, they wake up and start thinking.
       After thinking, they may want to eat again.
-  Rules:
+- Rules:
       Philosophers don't communicate with each other.
       They don't know if another philosopher is about to die of starvation.
       Philosophers need to eat regularly to avoid starvation.
-  Goal:
+- Goal:
       Ensure that all philosophers get to eat and none of them starves.
   
-  Implementation:
+- Implementation:
       Every philosopher is a thread.
       And this the Input which our programm needs to parse: 
         - number_of_philosophers 
