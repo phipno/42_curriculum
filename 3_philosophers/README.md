@@ -30,5 +30,4 @@
 
 ## 🧘 What It Does:
 
-<img src="readme/forever.png" align="left" width="49%">
-<img src="readme/rip8.png" align="left" width="49%">
+<img src="readme/forever.png" width="49%"><img src="readme/rip8.png" width="49%">
