@@ -9,34 +9,34 @@
 - Thread safety is the <i>A und O</i>>, how we would say in german
 
 ### 📜 The Rules:
-<b>Setup:</b><br>
+<b>Setup:</b>
 - Philosophers sit around a round table.
 - There is a bowl of spaghetti in the middle of the table.
-- There are as many forks as there are philosophers.
-<b>Activities:</b><br>
+- There are as many forks as there are philosophers.<br>
+<b>Activities:</b>
 - Philosophers can eat, think, or sleep.
-- They can only do one of these activities at a time.
-<b>Eating:</b><br>
+- They can only do one of these activities at a time.<br>
+<b>Eating:</b>
 - To eat, a philosopher needs two forks: the one on their right and the one on their left.
-- After eating, they put the forks back and go to sleep.
-<b>Sleeping and Thinking:</b><br>
+- After eating, they put the forks back and go to sleep.<br>
+<b>Sleeping and Thinking:</b>
 - After sleeping, they wake up and start thinking.
-- After thinking, they may want to eat again.
-<b>Rules:</b><br>
+- After thinking, they may want to eat again.<br>
+<b>Rules:</b>
 - Philosophers don't communicate with each other.
 - They don't know if another philosopher is about to die of starvation.
-- Philosophers need to eat regularly to avoid starvation.
-<b>Goal:</b><br>
-- Ensure that all philosophers get to eat and none of them starves.
+- Philosophers need to eat regularly to avoid starvation.<br>
+<b>Goal:</b>
+- Ensure that all philosophers get to eat and none of them starves.<br>
   
-<b>Implementation:</b><br>
+<b>Implementation:</b>
 - Every philosopher is a thread.
 - And this the Input which our programm needs to parse: </b>
--> number_of_philosophers </b>
--> time_to_die </b>
--> time_to_eat </b>
--> time_to_sleep </b>
--> [number_of_times_each_philosopher_must_eat] <i>optional</i></b>
+-> number_of_philosophers
+-> time_to_die
+-> time_to_eat
+-> time_to_sleep
+-> [number_of_times_each_philosopher_must_eat] <i>optional</i></b><br>
 
 ## 🧘 What it does:
 <img src="readme/forever.png" width="49%">
