@@ -1,6 +1,6 @@
 # 🗿 philosophers: learning the ways of philosophers [threads] 🗿
 
-<img src="readme/philo_animate.gif" align="left" width="300px" style="margin-right:16px;>
+<img src="readme/philo_animate.gif" align="left" width="300px" style="margin-right:16px">
 
 ### 🔍 Why philosophers:
 - You learn about threads
