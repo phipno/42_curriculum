@@ -2,13 +2,13 @@
 
 <img src="readme/philo_animate.gif" align="left">
 
-### 🔍 Why philosophers:
+## 🔍 Why philosophers:
 - You learn about threads
 - Creating a logical programm which runs with custom amount of thread
 - Get to know how hard thread debugging can be
 - Thread safety is the <i>A und O</i>>, how we would say in german
 
-### 📜 The Rules:
+## 📜 The Rules:
 - Setup:
       Philosophers sit around a round table.
       There is a bowl of spaghetti in the middle of the table.
@@ -38,7 +38,7 @@
         - time_to_sleep 
         - [number_of_times_each_philosopher_must_eat] <i>optional</i>
 
-### 🧘 What it does:
+## 🧘 What it does:
 <img src="readme/forever.png" width="49%">
 <img src="readme/rip8.png" width="49%">
 
