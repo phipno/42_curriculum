@@ -9,14 +9,18 @@
 - Thread safety is the <i>A und O</i>>, how we would say in german
 
 ### 📜 The Rules:
-<b>Setup:</b>
-- Philosophers sit around a round table.
-- There is a bowl of spaghetti in the middle of the table.
-- There are as many forks as there are philosophers.<br>
-
-<b>Activities:</b>
-- Philosophers can eat, think, or sleep.
-- They can only do one of these activities at a time.<br>
+<div>
+  <div>
+  <b>Setup:</b>
+  - Philosophers sit around a round table.
+  - There is a bowl of spaghetti in the middle of the table.
+  - There are as many forks as there are philosophers.<br>
+  </div>
+  <div>
+  <b>Activities:</b>
+  - Philosophers can eat, think, or sleep.
+  - They can only do one of these activities at a time.<br>
+  </div>
 
 <b>Eating:</b>
 - To eat, a philosopher needs two forks: the one on their right and the one on their left.
@@ -42,6 +46,7 @@
 -> time_to_eat
 -> time_to_sleep
 -> [number_of_times_each_philosopher_must_eat] <i>optional</i></b><br>
+</div>
 
 ## 🧘 What it does:
 <img src="readme/forever.png" width="49%">
