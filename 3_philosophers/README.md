@@ -48,5 +48,5 @@ Ensure that all philosophers get to eat and none of them starves.
 
 ## 🧘 What It Does:
 
-<img src="readme/forever.png" width="49%">
-<img src="readme/rip8.png" width="49%">
+<img src="readme/forever.png" align="left" width="49%">
+<img src="readme/rip8.png" align="right" width="49%">
