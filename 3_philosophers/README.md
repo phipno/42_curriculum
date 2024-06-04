@@ -1,14 +1,14 @@
 # 🗿 philosophers: learning the ways of philosophers [threads] 🗿
 
-<img src="readme/philo_animate.gif" align="left" width="300px">
+<img src="readme/philo_animate.gif" align="left" width="300px" style="margin-right:16px;>
 
-## 🔍 Why philosophers:
+### 🔍 Why philosophers:
 - You learn about threads
 - Creating a logical programm which runs with custom amount of thread
 - Get to know how hard thread debugging can be
 - Thread safety is the <i>A und O</i>>, how we would say in german
 
-## 📜 The Rules:
+### 📜 The Rules:
 - Setup:
       Philosophers sit around a round table.
       There is a bowl of spaghetti in the middle of the table.
