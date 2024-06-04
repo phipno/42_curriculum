@@ -1,6 +1,6 @@
 # 🗿 Philosophers: Learning the Ways of Philosophers [Threads] 🗿
 
-<p align="center">
+<p align="left">
   <img src="readme/philo_animate.gif" width="300px">
 </p>
 
