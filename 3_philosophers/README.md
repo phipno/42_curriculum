@@ -32,4 +32,4 @@
 
 <img src="readme/forever.png" width="49%"><img src="readme/rip8.png" width="49%">
 The left images shows an input of `./philo 9 1000 200 200 3`. Since the logic works everyone survives and the programm finishes when everyone ate 3 times.<br>
-The right images shows an input of `./philo 9 500 200 100`. Since we atleast need more than double the amount of `time_to_eat + time_to_sleep` for `time_to_die`, when we have an uneven amount of philos, one dies.
+The right images shows an input of `./philo 9 500 200 100`. Since we atleast need more than double the amount of `time_to_eat + time_to_sleep` for `time_to_die`, a philo dies, cause there is a uneven amount of philos and only 9 forks.
