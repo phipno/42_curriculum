@@ -1,6 +1,6 @@
 # 🗿 philosophers: learning the ways of philosophers [threads] 🗿
 
-<img src="readme/philo_animate.gif" align="left">
+<img src="readme/philo_animate.gif" align="left" width="110%">
 
 ### 🔍 Why philosophers:
 - You learn about threads
@@ -36,7 +36,7 @@
         - time_to_die 
         - time_to_eat 
         - time_to_sleep 
-        - [number_of_times_each_philosopher_must_eat] <i>optional<i>
+        - [number_of_times_each_philosopher_must_eat] <i>optional</i>
 
 ### 🧘 What it does:
 <img src="readme/forever.png" width="49%">
