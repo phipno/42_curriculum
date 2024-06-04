@@ -12,9 +12,9 @@
 <div>
   <div>
   <b>Setup:</b>
-  - Philosophers sit around a round table.
-  - There is a bowl of spaghetti in the middle of the table.
-  - There are as many forks as there are philosophers.<br>
+  <p>Philosophers sit around a round table.</p>
+  <p>There is a bowl of spaghetti in the middle of the table.</p>
+  <p>There are as many forks as there are philosophers.</p><br>
   </div>
   <div>
   <b>Activities:</b>
