@@ -1,4 +1,10 @@
-# ft_transcendence
+# 🏓ft_transcendence: transcend into web 🏓
+
+### 🔍 Why ft_transcendence:
+- It is currently the last project at 42Heilbronn 
+- We were five people working on it for circa 3 months
+- Teammates: [<a href="https://github.com/lakner" target="_blank">lakner</a>], [<a href="https://github.com/albert2804" target="_blank">albert2804</a>], [<a href="https://github.com/Kathinka42" target="_blank">Kathinka42</a>], [<a href="https://github.com/Tilmanfs95" target="_blank">Tilmanfs95</a>]
+-
 
 ## Project setup
 
@@ -10,63 +16,7 @@ Start all containers:
 ```
 make
 ```
----
-Start all containers in the background:
-```
-make detached
-```
----
-Build containers:
-```
-make build
-```
----
-Stop all containers:
-```
-make stop
-```
----
-Stop and remove all containers:
-```
-make down
-```
----
-Remove all self created images (nginx, frontend, backend):
-```
-make iclean
-```
----
-Remove volumes (database):
-```
-make vclean
-```
----
-Remove all containers, images and volumes (except the frontend node_modules folder):
-```
-make clean
-```
----
-Remove all containers, images and volumes:
-```
-make fclean
-```
----
-Remove backend Migration files:
-```
-make mclean
-```
----
-Docker prune (remove docker cache...)
-```
-make prune
-```
----
-Check the status of the project:
-```
-make status
-```
-
-## Project usage
+connect via `https://localhost/`
 
 ### Development
 
