@@ -9,14 +9,18 @@
 
 ### 🏗️ What we exactly did:
 <img src="readme/first.png">
+### Login and Profile-Section
 <img src="readme/second.png">
+### Pong with gravity
 <img src="readme/pong.gif">
+### The Chat and its commands
 <img src="readme/third(1).png">
+### Some extra setting we implemented, like extra maps
 <img src="readme/fourth.png">
+### The tournament page where you can play and initiate them
 <img src="readme/fifth.png">
-<img src="readme/tournament.gif">
+<img src="readme/tournament.gif" width="100%">
 <img src="readme/leaderboard.png">
-<img src="readme/gravitypong.gif">
 
 ### 🎫Usage:
 You need Docker. 
