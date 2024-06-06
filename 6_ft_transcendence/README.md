@@ -8,7 +8,7 @@
 - A lot of new things in a big team, sounds exciting, aint it?
 
 ### 🏗️ What we exactly did:
-<img src="readme/home_big.png"><img src="readme/smartphone.png"><img src="readme/smartphone2.png">
+<div align="left" height="100%"><img src="readme/home_big.png" width="59%"><img src="readme/smartphone.png" width="20%"><img src="readme/smartphone2.png" width="20%"></div>
 <img src="readme/Login.png"><img src="readme/profile.png">
 <img src="readme/pong.gif">
 <img src="readme/Chat.png"><img src="readme/chat_command.png">
