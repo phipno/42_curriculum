@@ -8,12 +8,12 @@
 - A lot of new things in a big team, sounds exciting, aint it?
 
 ### 🏗️ What we exactly did:
-<div align="left" height="100%"><img src="readme/home_big.png" width="59%"><img src="readme/smartphone.png" width="20%"><img src="readme/smartphone2.png" width="20%"></div>
-<img src="readme/Login.png"><img src="readme/profile.png">
+<img src="readme/first.png">
+<img src="readme/second.png">
 <img src="readme/pong.gif">
-<img src="readme/Chat.png"><img src="readme/chat_command.png">
-<img src="readme/settings.png"><img src="readme/2faauthentication.png">
-<img src="readme/tournament_input_form.png"><img src="readme/Tournament_carousel.png">
+<img src="readme/third(1).png">
+<img src="readme/fourth.png">
+<img src="readme/fifth.png">
 <img src="readme/tournament.gif">
 <img src="readme/leaderboard.png">
 <img src="readme/gravitypong.gif">
