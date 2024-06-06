@@ -1,7 +1,7 @@
 # 🕹️ft_transcendence: transcend into web 🕹️
 
 ### 🔍 Why ft_transcendence:
-- It is currently the last project at 42Heilbronn at first web project.
+- It is currently the last project at 42Heilbronn and the first web project.
 - We were five people working on it for circa 3 months.
 - Teammates: [<a href="https://github.com/lakner" target="_blank">lakner</a>], [<a href="https://github.com/albert2804" target="_blank">albert2804</a>], [<a href="https://github.com/Kathinka42" target="_blank">Kathinka42</a>], [<a href="https://github.com/Tilmanfs95" target="_blank">Tilmanfs95</a>]
 - Using the knowledge of inception to build a webStack with Django as backend, Nuxt.js as frontend, Nginx for our web server, PostgresSQL as database and adminer for database management.
