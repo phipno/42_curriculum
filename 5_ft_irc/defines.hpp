@@ -67,6 +67,6 @@
 #define ERR_NOORIGIN 409 //":No origin specified"
 
 //debugflags
-#define VERBOSE 0 //used for constructors and function calls
+#define VERBOSE 1 //used for constructors and function calls
 #define LOOP 0 //used for printing when inside a loop
-#define DEBUG 0 // generic print flag
+#define DEBUG 1 // generic print flag
