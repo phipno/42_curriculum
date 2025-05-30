@@ -163,11 +163,9 @@ void Server::runServer() {
 					
 			if(_fds[j].revents & POLLIN) {
 				recv_from_client_socket(_clients[i]);
-				if (VERBOSE) {
-					list_clients();
-					list_channels_all();
-					std::cout << "========================" << std::endl;
-				}
+				list_clients();
+				list_channels_all();
+				std::cout << "========================" << std::endl;
 			}
 			if (_fds[j].revents & POLLHUP) {
 				close(_clients[i].getClientSocket());
